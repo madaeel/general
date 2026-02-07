@@ -1,0 +1,9 @@
+{
+  "name": "openclaw-otel-journal",
+  "version": "1.0.0",
+  "description": "OpenClaw skill for OpenTelemetry-compatible journaling and tracing",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
